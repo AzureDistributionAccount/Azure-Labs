@@ -32,4 +32,4 @@ Azure was created as an executor for:
 
 ## ⬇️ Download
 
-The Download link is 
+The Download links for each Listed Versions will be in the Releases Tab.
