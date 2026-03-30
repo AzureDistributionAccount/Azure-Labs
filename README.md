@@ -5,40 +5,31 @@ The Official Repository for the Azure App!
 
 ## 🟣 About Azure
 
-**Azure** is a controlled communication and logging system designed for private message intake and secure observation.
+**Azure** is a Free Roblox Executor made Specifcally to Run Cheats / Exploiting Software.
 
 Built with a **purple and black minimalist theme**, Azure focuses on clarity, restriction, and permanence — ensuring that only authorized inputs are recorded and only intended viewers can access them.
 
 > [!CAUTION]
-> The only official places to download the Azure App are this GitHub repository.
+> The only official places to download the Azure App is this GitHub repository.
 > Any other websites offering downloads or claiming to be official may contain malicious or modified versions.
 
 ## 🎯 Purpose
 
-Azure was created as an experimental platform for:
+Azure was created as an executor for:
 
-- Controlled message transmission  
-- Persistent data logging  
-- Private monitoring environments  
-- ARG (Alternate Reality Game) systems  
-
+- Easy and Simple Script Execution of Scripts
+- Exploiting and Cheating in Roblox 
+  
 ---
 
 ## ⚙️ Features
 
-- 🔐 **Restricted Input System**  
-  Only predefined identifiers can send messages.
-
-- 🗂️ **Persistent Storage**  
-  Messages are stored permanently in a cloud database.
-
-- 👁️ **Private Viewing Panel**  
-  Messages are accessible through a restricted interface.
-
-- 🎨 **Minimal UI Design**  
-  Clean purple + black theme for a professional look.
-
+- Undetected By Server Anti-Cheats and Roblox
+- Premium UI and Easy to Understand Layout
+- Easy Script Execution 
+- Includes Many Built-In Scripts Such as Fly, No-Clip, Etc.
 ---
 
-## 🧱 Project Structure
+## ⬇️ Download
 
+The Download link is 
