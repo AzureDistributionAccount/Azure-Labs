@@ -9,14 +9,9 @@ The Official Repository for the Azure App!
 
 Built with a **purple and black minimalist theme**, Azure focuses on clarity, restriction, and permanence — ensuring that only authorized inputs are recorded and only intended viewers can access them.
 
----
-## ⚠️ Warning
-
-The **only official source** for the Azure App is this GitHub repository.
-
-Downloading Azure from any other website may expose you to **malicious or modified versions**, including potential malware.
-
-For your safety, always use the files provided here.
+> [!CAUTION]
+> The only official places to download the Azure App are this GitHub repository.
+> Any other websites offering downloads or claiming to be official may contain malicious or modified versions.
 
 ## 🎯 Purpose
 
